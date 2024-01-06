@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJs**
 
-- 📫 How to reach me **ln18bca11016@gmail.com**
+- 📫 How to reach me **praddyotahayaran18@gmail.com**
 
 - ⚡ Fun fact **💪**
 
