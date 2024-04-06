@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Praddyota Hayaran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Redux Toolkit**
+- 🌱 I’m currently learning **Power BI**
 
 - 👨‍💻 All of my projects are available at [https://praddyotahayaran.github.io/praddyotaportfolio/](https://praddyotahayaran.github.io/praddyotaportfolio/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs**
+- 💬 Ask me about **Excel, SQL, Power BI, Python**
 
 - 📫 How to reach me **praddyotahayaran18@gmail.com**
 
