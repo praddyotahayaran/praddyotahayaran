@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Zomato Power BI Dashboard**
 
-- 👨‍💻 All of my projects are available at [https://praddyotahayaran.github.io/praddyotaportfoli/](https://praddyotahayaran.github.io/praddyotaportfoli/)
+- 👨‍💻 All of my projects are available at https://praddyotahayaran.github.io/praddyotaportfolio/
 
 - 💬 Ask me about **Excel, SQL, Power BI,**
 
